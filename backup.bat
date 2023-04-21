@@ -1,0 +1,1 @@
+C:\Programme\WinRAR\rar.exe a -s -rr2 -ag_YYYY.MM.DD_HH.MM -m5 SoundDemo *.bat *.bmp *.i *.txt *.s
