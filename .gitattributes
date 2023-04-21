@@ -1,1 +1,1 @@
-*.i linguist-vendored
+*.i linguist-detectable=false
